@@ -68,23 +68,6 @@ I use this GitHub profile to showcase my **personal projects, technical experime
 
 ---
 
-## 🚀 Personal Projects
-
-> **Projects coming soon.**
->
-> I’m currently building and preparing a collection of personal projects focused on modern Angular, Ionic, NgRx, and .NET full-stack development.
-
-### Planned Projects
-
-| Project | Technology | Status |
-|---|---|---|
-| 🅰️ Angular Advanced Application | Angular, TypeScript, RxJS | 🔜 Coming Soon |
-| 🛒 NgRx Shopping Cart | Angular, NgRx, RxJS | 🔜 Coming Soon |
-| 📱 Ionic Mobile Application | Ionic, Capacitor | 🔜 Coming Soon |
-| 🔷 Angular + .NET Full Stack | Angular, ASP.NET Core, SQL Server | 🔜 Coming Soon |
-
----
-
 ## 📊 What You'll Find Here
 
 - Clean and maintainable Angular code
